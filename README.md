@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.appgefahren.de/wp-content/cache/wp-appbox/2262f21b07d1afc3a5257aa8d5becfd9/ai-d1e12c3e75724821a31b5b837476d0bb" width="100" alt="Agenda icon"/>
+  <img src="https://images.icon-icons.com/3053/PNG/512/agenda_macos_bigsur_icon_190417.png" width="100" alt="Agenda icon"/>
 </p>
 
 <h1 align="center">Agenda for Mac</h1>
